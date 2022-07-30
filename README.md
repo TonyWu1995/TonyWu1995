@@ -1,3 +1,3 @@
-<h1 align="center">Hi there👋, I'm Tony</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TonyWu1995&style=flat-square" alt="TonyWu1995" /> </p>
-
+# Hi there👋, I'm Tony
+![Profile Views](https://komarev.com/ghpvc/?username=TonyWu1995&style=flat-square)
+![Tony's github stats](https://github-readme-stats.vercel.app/api?username=TonyWu1995&layout=compact&theme=solarized-dark)
